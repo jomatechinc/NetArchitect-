@@ -1,0 +1,6 @@
+{
+  "name": "NetArchitect AI",
+  "description": "Senior Network Engineer AI assistant to automatically configure enterprise/bank networks, troubleshoot CCNA VLANs/ACLs/routing, and monitor connected devices in real time with security compliance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
